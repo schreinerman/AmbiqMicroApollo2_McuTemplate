@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1489451823 source:c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\common\system_apollo2.c
+	<stdint.h>
+	"system_apollo2.h"
+	"apollo2.h"
+
+1489451823 c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\common\system_apollo2.h
+	<stdint.h>
+
+1489451826 c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\common\apollo2.h
+	"core_cm4.h"
+	"system_apollo2.h"
+
+1486404106 c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\cmsis\include\core_cm4.h
+	<stdint.h>
+	"cmsis_compiler.h"
+
+1486404106 c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\cmsis\include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1486404106 c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\cmsis\include\cmsis_armcc.h
+
+1486404106 c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\cmsis\include\cmsis_armclang.h
+	<arm_compat.h>
+
+1486404106 c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\cmsis\include\cmsis_gcc.h
+
+1490952387 source:c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\example\source\main.c
+	"mcu.h"
+	"base_types.h"
+
+1489749237 c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\example\source\mcu.h
+	"RTE_Device.h"
+	"apollo2.h"
+	"system_apollo2.h"
+
+1501681094 c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\example\source\config\rte_device.h
+
+1489749237 c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\common\base_types.h
+	<stddef.h>
+	"stdint.h"
+
+1489749237 source:c:\users\mschre\documents\_mcutemplates\template\apollo2_template-v10\example\emide\startup_apollo2.s
+
